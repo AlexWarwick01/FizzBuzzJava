@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-10T15:17:52" hostname="Makerss-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="checksMultipleOf15OutputsFizzBuzz" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="checksnumbers" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="checksMultipleOf3OutputsFizz" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="checksMultipleOf5OutputsFizz" classname="FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
